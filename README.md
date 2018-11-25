@@ -21,16 +21,16 @@ works on different versions of software.
 
 ### Git Method
 
-git clone git@github.com:linux478/cli-bowler.git
-cd cli-bowler.git
-chmod 755 cli-bowler.sh
+> git clone git@github.com:linux478/cli-bowler.git
+> cd cli-bowler.git
+> chmod 755 cli-bowler.sh
 
 ### Download
 
-wget https://github.com/linux478/cli-bowler/archive/master.zip
-unzip master.zip
-cd cli-bowler-master
-chmod 755 cli-bowler.sh
+> wget https://github.com/linux478/cli-bowler/archive/master.zip
+> unzip master.zip
+> cd cli-bowler-master
+> chmod 755 cli-bowler.sh
 
 ## Run Program
 
@@ -40,15 +40,15 @@ More examples in the doc/user.md
 
 ## Files
 
-./
-|-- LICENSE                -- license agreement
-|-- cli-bowler.db          -- default location for your information
-|-- cli-bowler.sh          -- the program (should be executable)
-|-- cli-bowlerrc           -- program configuration file
-`-- doc
-    |-- programmer.md      -- documentation for the programmer
-    `-- user.md            -- documentation for the user
-|-- README.md              -- this file
+    ./
+    |-- LICENSE                -- license agreement
+    |-- cli-bowler.db          -- default location for your information
+    |-- cli-bowler.sh          -- the program (should be executable)
+    |-- cli-bowlerrc           -- program configuration file
+    `-- doc
+        |-- programmer.md      -- documentation for the programmer
+        `-- user.md            -- documentation for the user
+    |-- README.md              -- this file
 
 ## MIT License
 
