@@ -21,9 +21,9 @@ works on different versions of software.
 
 ### Git Method
 
-> git clone git@github.com:linux478/cli-bowler.git
-> cd cli-bowler.git
-> chmod 755 cli-bowler.sh
+    git clone git@github.com:linux478/cli-bowler.git
+    cd cli-bowler.git
+    chmod 755 cli-bowler.sh
 
 ### Download
 
