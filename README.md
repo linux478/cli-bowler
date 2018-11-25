@@ -50,6 +50,7 @@ More examples in the doc/user.md
         `-- user.md            -- documentation for the user
     |-- README.md              -- this file
 
+**NOTE:** cli-bowler.db is not part of the distribution 
 ## MIT License
 
 Copyright (c) [2018] [Michael Phillips]
