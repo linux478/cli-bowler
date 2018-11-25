@@ -27,10 +27,10 @@ works on different versions of software.
 
 ### Download
 
-> wget https://github.com/linux478/cli-bowler/archive/master.zip
-> unzip master.zip
-> cd cli-bowler-master
-> chmod 755 cli-bowler.sh
+    wget https://github.com/linux478/cli-bowler/archive/master.zip
+    unzip master.zip
+    cd cli-bowler-master
+    chmod 755 cli-bowler.sh
 
 ## Run Program
 
